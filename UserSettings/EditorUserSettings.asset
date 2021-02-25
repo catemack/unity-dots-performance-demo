@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    Advanced Settings:
+      value: 183b144645154b6805011b0314355e1e15121c1d233a2a343e6b4773e4e1382be78d2b
+      flags: 0
+    Entity Inspector Settings:
+      value: 183b144645154b790c0d07271e271d4a564654406c6866706f0d1420f2ec3521c1e83bf9e8343a322d36f62c017c5b7ff40b0518f36117
+      flags: 0
+    unity-properties__ui-persistent-state:
+      value: 183b144645154b7d0202082d05376c0417031d6876681d5a6d695d73a2a07478f98d76a9a77a7f7c7942af7c447e4314f7134b51b6535a58465fad5e45a75c79518558855a885f5c8b595c8e8f2bd0efc0d396b098fff5cddbb5e0b2b4b0aeb8b5b1b8b7c0e8bc80eaefbef1efd9ad84818af7848c868987fa92919195d6cb918396c8878cd38f8380dff4dff1dccde4d3e1e4d6d5e5d9ebdddedcf056b2a375632532faa8aaa385d7f92dc33230c4c8326aca1337cacfccc9d23fcc8fe4d1cf02dad9db06dbdadb21de0fb564562239211839003e0f373509313e0e110761336566643a683b37686e6f7274454c6b4d071b755f282d493a7a7f0e417f1217144c166d141c1619174a62613864636263696655666957686b695f1b182ba26d74ae6061b2b26db068bfbfbb4e9a437fb0b6b7b84a4c4846504d4bcb12ced5115a988702dbd21f755c59a28f5ca45ea1029e80a9ab96abaaabb1aec684b19fb0b3b1e5b8e5bae8bfbce9d2f9b7efa7f18ee4e3e09de09294eeefebccb894908e989591c59bcac89ce0c8b9df9d9aa7e5fee1be85b1a9cce9e7daf2f1f3def3afffd3f625f6f927f8fbf976ea2dc230c7c433c1c43635c539c9567b65d01ad3c21113131fc2c5ccc631ccd527231210242812172619172a2f2e5f735379712c2b2f36686c7e4c3b3a3b013e6d3e01322a030175080806520f0c7b090e0e3c4a085d04120d55066843091a0a5278641b634238
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 0
